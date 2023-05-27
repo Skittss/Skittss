@@ -7,11 +7,7 @@ I like working with webdev, machine learning, and graphics.
 - 🚀 Currently working on a from-first-principles ray tracer in C++. 
 - 🌱 Learning about all things graphics, and the vulkan API. 
 
-
 ---
-Portfolio: https://skittss.github.io/PortfolioWebsite
-
----
-Check out some of my projects pinned below 👇
+Check out my <b>[Portfolio](https://skittss.github.io/PortfolioWebsite)</b>, and some of my projects pinned below 👇
 
 
