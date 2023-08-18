@@ -1,6 +1,6 @@
 ### Hey there, I'm Henry 👋
 ---
-A software developer and computer science student from the U.K.
+A software developer and computer science student from the UK.
 
 I like working with webdev, machine learning, and graphics. 
 
