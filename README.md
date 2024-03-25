@@ -4,7 +4,7 @@ A software developer and computer science graduate from the UK.
 
 I like working with webdev, machine learning, and graphics. 
 
-- 🌱 Currently learning about all things graphics, and the vulkan API.
+- 🌱 Currently learning about all things graphics, and the vulkan API (take a look at my [hobby renderer](https://github.com/Skittss/sumire)!).
 
 ---
 📫 For opportunities and/or queries, please contact me via email: skittss@outlook.com
