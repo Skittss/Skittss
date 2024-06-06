@@ -1,6 +1,6 @@
 ### Hey there, I'm Henry 👋 
 ---
-A software developer and computer science graduate from the UK.
+A Graphics Research Engineer and Computer Science graduate from the UK.
 
 I like working with webdev, machine learning, and graphics. 
 
