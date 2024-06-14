@@ -14,5 +14,3 @@ Also interested in Machine Learning and its usage within Visual Computing.
 
 ---
 Check out my <b>[Portfolio](https://skittss.github.io/PortfolioWebsite)</b>, and some of my projects pinned below 👇
-
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/Skittss&bgLeft=262536&bgRight=3DC8AF&label=Visits)](https://hits-app.vercel.app/)
