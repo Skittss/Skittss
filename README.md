@@ -7,7 +7,7 @@ I like working with low-level graphics systems, and on techniques at the interse
 Also interested in Machine Learning and Computer Vision.
 
 - ⚡ Currently involved in research of ray tracing techniques and optimizations.
-- 🌱 Developing a lightweight rendering engine alongside full-time work, using vulkan API (take a look [here](https://github.com/Skittss/sumire)!).
+- 🌱 Developing a lightweight rendering engine alongside full-time work using vulkan (take a look [here](https://github.com/Skittss/sumire)!).
 - ☀️ Working on various shadowing and lighting systems, from clustered deferred shadows to ray tracing and BVH acceleration.
 
 ---
