@@ -6,10 +6,4 @@
   </picture>
 </a>
 
-<h3 align="center">I make computer graphics stuff</h3>
-
-<p align="center">
-  🔗 <a href="https://henryallen.xyz">Portfolio</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  📫 <a href="mailto:skittss@outlook.com">skittss@outlook.com</a>
-</p>
+<h3 align="center"><a href="https://henryallen.xyz">I make computer graphics stuff</a></h3>
