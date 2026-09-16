@@ -1,17 +1,15 @@
-### Hey there, I'm Henry 👋 
----
-A Graphics Research Engineer and Computer Science graduate from the UK.
+<a href="https://henryallen.xyz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset=".github/banner-light.webp">
+    <img alt="A sphere of water throwing caustics onto the page" src=".github/banner-light.webp" width="100%">
+  </picture>
+</a>
 
-I like working with low-level graphics systems, and on techniques at the intersection of graphics and art.
+<h3 align="center">I make computer graphics stuff</h3>
 
-Also interested in Machine Learning and Computer Vision.
-
-- ⚡ Currently involved in research of ray tracing techniques and optimizations.
-- 🌱 Developing a lightweight rendering engine alongside full-time work using vulkan (take a look [here](https://github.com/Skittss/sumire)!).
-- ☀️ Working on various shadowing and lighting systems, from clustered deferred shadows to ray tracing and BVH acceleration.
-
----
-📫 For opportunities and/or queries, please contact me via email: skittss@outlook.com
-
----
-Check out my <b>[Portfolio](https://skittss.github.io/PortfolioWebsite)</b>, and some of my projects pinned below 👇
+<p align="center">
+  🔗 <a href="https://henryallen.xyz">Portfolio</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  📫 <a href="mailto:skittss@outlook.com">skittss@outlook.com</a>
+</p>
